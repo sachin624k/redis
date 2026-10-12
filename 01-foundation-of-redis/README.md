@@ -1,8 +1,9 @@
 # Redis Foundation
 
-This folder contains the foundational concepts of Redis.
+This folder contains visual notes covering the fundamentals of Redis and its common use cases.
 
-**Start Here:**  
-Read the `Redis.excalidraw` file to understand the core Redis concepts.
+### Start Here
 
-> The Excalidraw diagram provides a visual overview of how Redis works and where it is used in backend applications.
+1. Download `Redis.excalidraw` from this folder.
+2. Open [Excalidraw](https://excalidraw.com/).
+3. Open the downloaded file to explore the diagrams and understand Redis concepts visually.

@@ -2,6 +2,7 @@
   "name": "02-setup-local-redis",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "node src/index.js"
   },

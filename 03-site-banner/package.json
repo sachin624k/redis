@@ -1,5 +1,5 @@
 {
-  "name": "02-setup-local-redis",
+  "name": "03-site-banner",
   "version": "1.0.0",
   "private": true,
   "type": "module",
